@@ -6,11 +6,19 @@ li {
   list-style: none;
 }
 
+.head span{
+  color:navy;
+}
+
 .header {
   background-color: #26d0c9;
   color: #fff;
   height: 90px;
   border: 5px solid navy;
+}
+
+.header span {
+  color:navy;
 }
 
 .header-logo {
@@ -87,6 +95,10 @@ input, textarea {
   color: #fff;
   height: 120px;
   padding: 40px;
+}
+
+.footer span {
+  color:navy;
 }
 
 .footer-logo {
